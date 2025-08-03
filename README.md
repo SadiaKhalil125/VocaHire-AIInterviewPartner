@@ -1,5 +1,7 @@
 # VocaHire - AI-Powered Interview Practice Platform
 
+**Video Demo**: https://www.loom.com/share/7284d107127e42b5960323fa788d5ffe?sid=87b46f3d-ce5d-48e6-a004-bf505a9ccb64
+
 ## 🎯 Project Overview
 
 VocaHire is a comprehensive AI-powered interview practice platform that helps users prepare for job interviews through interactive AI-driven conversations. The platform features real-time interview simulations, pose detection for body language analysis, and detailed feedback and scoring.
