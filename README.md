@@ -2,6 +2,13 @@
 
 **Video Demo**: https://www.loom.com/share/7284d107127e42b5960323fa788d5ffe?sid=87b46f3d-ce5d-48e6-a004-bf505a9ccb64
 
+<img width="1366" height="768" alt="Screenshot (1195)" src="https://github.com/user-attachments/assets/f6af4127-e526-403b-9834-dfc137125fef" />
+<img width="1366" height="768" alt="Screenshot (1196)" src="https://github.com/user-attachments/assets/5bab5572-f980-456c-9018-b6df70f39229" />
+<img width="1366" height="768" alt="Screenshot (1198)" src="https://github.com/user-attachments/assets/08dcc27b-e2d8-4682-942c-682320a93973" />
+<img width="1366" height="768" alt="Screenshot (1200)" src="https://github.com/user-attachments/assets/7b799ea6-41bb-47b9-affc-610a4d7468ff" />
+<img width="1366" height="768" alt="Screenshot (1202)" src="https://github.com/user-attachments/assets/b3d47865-d261-43cf-8e38-2d2924b8f67b" />
+<img width="1366" height="768" alt="Screenshot (1203)" src="https://github.com/user-attachments/assets/e522ccfd-457b-4ffb-b6ad-c09bca6cd923" />
+
 ## 🎯 Project Overview
 
 VocaHire is a comprehensive AI-powered interview practice platform that helps users prepare for job interviews through interactive AI-driven conversations. The platform features real-time interview simulations, pose detection for body language analysis, and detailed feedback and scoring.
